@@ -1,4 +1,4 @@
-# Angular 5 training project
+# Angular 6 training project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
